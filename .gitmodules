@@ -1,5 +1,9 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/proxmint/proxmint.r-universe.dev
 	branch = HEAD
+[submodule "proxmint"]
+	path = proxmint
+	url = https://github.com/proxmint/free-proxy-list
+	branch = r-v0.1.0
+	subdir = r
