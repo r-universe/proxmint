@@ -5,5 +5,5 @@
 [submodule "proxmint"]
 	path = proxmint
 	url = https://github.com/proxmint/free-proxy-list
-	branch = r-v0.1.0
+	branch = r-v0.1.2
 	subdir = r
